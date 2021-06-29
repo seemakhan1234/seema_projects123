@@ -1,0 +1,101 @@
+*:focus 
+{
+    outline: none;
+}
+.track
+{
+    width: 100%;
+    height: 50%;
+    justify-content: center;
+    margin-top: 60px;
+    padding: 0;
+    outline: none;
+    font-family: lato;
+}
+.track h6
+{
+    margin-bottom: 5px;
+    color: white;
+    font-size: 25px;
+    letter-spacing: 1px;
+    margin-left: 400px;
+}
+.inner_track
+{
+    max-width: 450px;
+    width: 40%;
+    position: relative;
+    float: left;
+}
+.inner_track .input
+{
+    width: 95%;
+    height: 45px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid transparent;
+    font-weight: bold;
+    margin-left: 400;
+    opacity: 1;
+    font-family: lato;
+    cursor: text;
+}
+.inner_track .go a
+{
+    position: absolute;
+    height: 45px;
+    top: 0;
+    right: -380px;
+    transform: translateY(-0%);
+    background: #5885AF;
+    padding: 15px;
+    border-radius: 0px 5px 5px 0px;
+    z-index: 5;
+    font-family: lato;
+    border: none;
+    color: white;
+}
+.inner_track .go:hover
+{
+    background: #AE9F88;
+    color: white;
+    cursor: pointer;
+}
+#order_status
+{
+    width: 100%;
+    left: 50px;
+    margin-top: 20px;
+    margin-left: 450px;
+    display: none;
+}
+#order_status h1
+{
+    color: white;
+    font-size: 25px;
+    letter-spacing: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

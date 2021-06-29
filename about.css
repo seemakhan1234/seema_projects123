@@ -1,0 +1,103 @@
+.about_us
+{
+    width: 100%;
+    overflow: hidden;
+}
+.about_us2
+{
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+.main_cover1
+{
+    width: 95%;
+    display: block;
+    margin-top: 20px auto;
+}
+.main_cover2
+{
+    width: 95%;
+    display: block;
+    margin: 20px auto;
+}
+.left
+{
+    width: 60%;
+    float: left;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-right: 25px;
+}
+.right
+{
+    width: 60%;
+    float: right;
+    padding-left: 50px;
+}
+.image_section1
+{
+    padding-top: 40px;
+    float: right;
+    width: 40%;
+}
+.image_section1 img
+{
+    width: 500px;
+    border-radius: 10px;
+}
+.image_section2
+{
+    margin: 20px auto;
+    float: left;
+    width: 40%;
+}
+.image_section2 img
+{
+    width: 500px;
+    border-radius: 10px;
+}
+.main_cover1 h1
+{
+    font-family: lato;
+    color: white;
+    font-size: 40px;
+}
+.main_cover1 h2
+{
+    font-family: lato;
+    color: white;
+    padding-top: 15px;
+}
+.main_cover1 p
+{
+    font-family: lato;
+    color: white;
+    padding-top: 10px;
+    padding-left: 15px;
+    font-size: 17px;
+    letter-spacing: 1px;
+    line-height: 1.5;
+}
+.main_cover2 h1
+{
+    font-family: lato;
+    color: white;
+    font-size: 40px;
+}
+.main_cover2 h2
+{
+    font-family: lato;
+    color: white;
+    padding-top: 15px;
+}
+.main_cover2 p
+{
+    font-family: lato;
+    color: white;
+    padding-top: 10px;
+    padding-left: 15px;
+    font-size: 17px;
+    letter-spacing: 1px;
+    line-height: 1.5;
+}

@@ -1,0 +1,180 @@
+.container
+{
+	width:100%; 
+	display:table;
+	box-sizing: border-box;
+}
+.latest_product
+{
+	width: 95%;
+    margin:0px auto;
+	padding:0px;
+}
+.heading
+{
+    margin-bottom: 20px;
+    text-align: center;
+}
+.heading h1
+{
+    font-family: lato;
+	text-align: left;
+    padding: 10px;
+    padding-left: 40px;
+	font-size: 30px;
+    color: white;
+}
+.heading h2
+{
+    font-family: lato;
+	text-align: left;
+    padding: 10px;
+    padding-left: 40px;
+	font-size: 30px;
+    color: white;
+    margin-top: 5px;
+    margin-bottom: -20px;
+}
+.heading p
+{
+    font-family: lato;
+	text-align: left;
+    padding-left: 65px;
+	font-size: 20px;
+    color: white;
+}
+.heading img
+{
+    width: 590px;
+    margin: auto;
+    display: inline;
+    border: 2px solid #B09E80;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.row1
+{
+	margin: 10px 35px 10px 35px;
+}
+.row2
+{
+	margin: 10px 35px 10px 35px;
+}
+.row3
+{
+	margin: 10px 35px 10px 35px;
+}
+.row4
+{
+	margin: 10px 35px 10px 35px;
+}
+.column
+{
+	width: 25%;
+	display: table-cell;
+	padding: 10px;
+	text-align: center;
+}
+.product_grid
+{
+	border: 2px solid #5885AF;
+	position: relative;
+    border-radius: 15px;
+    height: 480px;
+    background: #5885AF;
+}
+.product_grid:hover
+{
+	box-shadow: 0 0 10px rgba(0,0,0,.2);
+}
+.product_img
+{
+	overflow: hidden;
+	position: relative;
+}
+.product_img a
+{
+	display: block;
+}
+.product_img img
+{
+	width: 100%;
+	height: auto;
+    border-radius: 15px 15px 0px 0px;
+    border-bottom: 2px solid #5885AF;
+}
+.product_detail
+{
+	padding: 20px 10px;
+	text-align: center;
+}
+.product_title h3
+{
+    font-family: lato;
+	font-size: 20px;
+	margin: 0 0 7px;
+}
+.product_title h6
+{
+    font-family: lato;
+	font-size: 15px;
+	margin: 0 0 7px;
+    margin-top: -15px;
+    color: whitesmoke;
+}
+.product_title h3 a
+{
+    font-family: lato;
+	color: #303030;
+	text-decoration: none;
+    color: whitesmoke;
+}
+.product_title h3 a:hover
+{
+	color: black;
+}
+.product_price
+{
+    font-family: lato;
+	font-size: 21px;
+    color: whitesmoke;
+    position: absolute;
+    bottom: 55px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.buttons
+{
+    position: absolute;
+    bottom: 10px;
+    left: 25%;
+}
+.buttons .kart
+{
+    font-family: lato;
+    font-size: 20px;
+    color: white;
+    background-color: #B09E80;
+    border: none;
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.buttons .kart:hover
+{
+    color: white;
+    background-color: #192537;
+    border: none;
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+del
+{
+	color:rgba(128, 128, 128, 0.7);;
+}
+.rating
+{
+    color: yellow;
+}

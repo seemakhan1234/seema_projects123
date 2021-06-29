@@ -1,0 +1,77 @@
+.faq
+{
+    width: 100%;
+    overflow: hidden;
+}
+.main_cover
+{
+    width: 99%;
+    display: block;
+    margin-top: 20px auto;
+}
+.questions
+{
+    width: 99%;
+    float: center;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.main_cover h1
+{
+    font-family: lato;
+    color: white;
+    font-size: 40px;
+}
+.main_cover h2
+{
+    font-family: lato;
+    color: white;
+    padding-top: 15px;
+}
+.main_cover p
+{
+    font-family: lato;
+    color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+    font-size: 17px;
+    letter-spacing: 1px;
+    line-height: 1.5;
+}
+.main_cover a
+{
+    font-family: lato;
+    color: white;
+    text-decoration: underline;
+}
+.help
+{
+    width: 100%;
+    overflow: hidden;
+}
+.main_cover1 h1
+{
+    font-family: lato;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 20px
+}
+.main_cover1 p
+{
+    width: 80%;
+    font-family: lato;
+    color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+    font-size: 20px;
+    letter-spacing: 1px;
+    line-height: 1.5;
+    margin-left: 120px;
+}
+.main_cover1 a
+{
+    color: white;
+    text-decoration: underline;
+}

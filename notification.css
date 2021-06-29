@@ -1,0 +1,30 @@
+.add2kart {
+    position: fixed;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 2px solid #B09E80;
+    font-family: lato;
+    font-size: 20px;
+    transition: opacity 0.7s, top 0.5s,  bottom 0.5s;
+	z-index: 10000;
+}
+
+.add2kart:hover{
+    opacity: 1!important;
+    cursor: pointer;
+}
+
+.add2kart.hidden{
+    opacity: 0!important;
+    transition: opacity 0.7s, top 0.5s,  bottom 0.5s;
+}
+.add2kart > .content > .title{
+    display: block;
+    width: 100%;
+    font-size: 1.3em;
+    margin-bottom: 5px;
+}
+
+.add2kart > .content{
+    padding: 10px 20px 12px 20px;
+}
